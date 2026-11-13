@@ -1,0 +1,1 @@
+export{t as Cookie}from"./Legal-CZ_49fIO.js";

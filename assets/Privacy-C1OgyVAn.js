@@ -1,0 +1,1 @@
+export{n as Privacy}from"./Legal-DlG2Prvf.js";

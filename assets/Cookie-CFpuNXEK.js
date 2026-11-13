@@ -1,0 +1,1 @@
+export{t as Cookie}from"./Legal-Bqw7RhvH.js";

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spadarofederico.github.io/soccorso_azzurra/sitemap.xml

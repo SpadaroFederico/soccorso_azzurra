@@ -1,0 +1,1 @@
+import{n as e,t}from"./Img-PrqEvXNn.js";import{n,p as r}from"./figma-BnhioeVv.js";var i=r();function a({className:r,size:a=44,priority:o=!1,decorative:s=!1}){return(0,i.jsx)(t,{asset:e,priority:o,sizes:`${a}px`,alt:s?``:e.alt,className:n(`rounded-full`,r),style:{width:a,height:a}})}export{a as t};

@@ -1,1 +1,0 @@
-import{a as e}from"./Faq-C1z-1fAI.js";import{r as t}from"./ServicePage-D6YLHy27.js";import{p as n}from"./figma-BnhioeVv.js";var r=n();function i(){return(0,r.jsx)(t,{service:e})}export{i as ItaliaEstero};

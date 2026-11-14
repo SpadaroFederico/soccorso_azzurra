@@ -1,0 +1,1 @@
+export{n as Privacy}from"./Legal-Dgsl1gOr.js";

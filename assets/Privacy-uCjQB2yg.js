@@ -1,1 +1,0 @@
-export{n as Privacy}from"./Legal-Beru6PuV.js";

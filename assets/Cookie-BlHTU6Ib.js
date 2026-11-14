@@ -1,1 +1,0 @@
-export{t as Cookie}from"./Legal-Beru6PuV.js";

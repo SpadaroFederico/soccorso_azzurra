@@ -1,1 +1,0 @@
-import{c as e}from"./Faq-v2zCbtua.js";import{r as t}from"./ServicePage-BTzTTo3F.js";import{p as n}from"./figma-BnhioeVv.js";var r=n();function i(){return(0,r.jsx)(t,{service:e})}export{i as Trasferimenti};

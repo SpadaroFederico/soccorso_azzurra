@@ -1,0 +1,1 @@
+import{r as e}from"./Faq-nuV2ASxB.js";import{r as t}from"./ServicePage-CHw82tlr.js";import{p as n}from"./figma-BnhioeVv.js";var r=n();function i(){return(0,r.jsx)(t,{service:e})}export{i as Dialisi};

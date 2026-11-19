@@ -1,0 +1,1 @@
+export{t as Cookie}from"./Legal--k51Zo-t.js";

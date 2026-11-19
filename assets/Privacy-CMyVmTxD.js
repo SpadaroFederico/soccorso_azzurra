@@ -1,1 +1,0 @@
-export{n as Privacy}from"./Legal-ftGKQjb8.js";

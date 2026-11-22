@@ -1,1 +1,0 @@
-export{n as Privacy}from"./Legal--k51Zo-t.js";
